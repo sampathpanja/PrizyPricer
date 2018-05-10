@@ -16,3 +16,9 @@ Steps to run the project :
   store(store_id(pk), name)
 
 2. Deploy the individual madules onto wildfly server 
+
+3. For Admin module, username : admin
+                     password : admin123
+                     
+   For Surveyor module, username : dev
+                        password : dev123
