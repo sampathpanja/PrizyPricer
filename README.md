@@ -17,8 +17,8 @@ Steps to run the project :
 
 2. Deploy the individual madules onto wildfly server 
 
-3. For Admin module, username : admin
+3. For Admin module, username : admin,  
                      password : admin123
                      
-   For Surveyor module, username : dev
+   For Surveyor module, username : dev,  
                         password : dev123
